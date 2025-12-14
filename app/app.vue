@@ -39,7 +39,12 @@
     </main>
 
     <footer>
-      <p>Urmăriți progresul pe <a href="#" target="_blank">GitHub</a>.</p>
+      <p>
+        Urmăriți progresul pe
+        <a href="https://github.com/fusion-git/fusiondevelop" target="_blank"
+          >GitHub</a
+        >.
+      </p>
       <p class="copyright">
         © <span id="year"></span> Fusiondevelop. Toate drepturile rezervate.
       </p>
@@ -135,7 +140,7 @@ body {
 .subtitle {
   line-height: 1.6;
   opacity: 0.9;
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-bottom: 2rem;
 }
 
@@ -145,7 +150,7 @@ body {
   background: var(--secondary-accent); /* Altă culoare de accent */
   border-radius: 50px; /* Complet rotund */
   color: var(--bg);
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-weight: 600;
   margin-top: 2rem;
 }
@@ -175,7 +180,7 @@ body {
 
 .details li {
   padding: 8px 0;
-  font-size: 1rem;
+  font-size: 1.1rem;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -188,7 +193,7 @@ body {
 /* --- Stiluri Footer (Ajustat) --- */
 footer {
   margin-top: 3rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
   opacity: 0.8;
 }
 
