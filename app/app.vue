@@ -95,21 +95,6 @@
           </p>
         </footer>
       </div>
-
-      <!-- UI TEST -->
-      <div class="mt-12 space-y-4 text-center">
-        <p class="text-2xl font-bold">text to apply ui</p>
-
-        <div class="flex flex-wrap justify-center gap-3">
-          <UButton>Click me</UButton>
-          <UButton color="primary">Click me</UButton>
-          <UButton color="secondary">Click me</UButton>
-          <UButton color="success">Click me</UButton>
-          <UButton color="warning">Click me</UButton>
-          <UButton color="error">Click me</UButton>
-          <UButton color="info">Click me</UButton>
-        </div>
-      </div>
     </div>
   </UApp>
 </template>
